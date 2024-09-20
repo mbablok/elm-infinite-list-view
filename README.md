@@ -1,7 +1,7 @@
 # elm-infinite-list-view [![Build Status](https://travis-ci.org/FabienHenon/elm-infinite-list-view.svg?branch=master)](https://travis-ci.org/FabienHenon/elm-infinite-list-view)
 
 ```
-elm package install FabienHenon/elm-infinite-list-view
+elm install FabienHenon/elm-infinite-list-view
 ```
 
 Infinite list allows you to display a virtual infinite list of items by only showing visible items on screen. This is very useful for
